@@ -1,0 +1,10 @@
+{
+  "name": "front",
+  "version": "0.1.0",
+  "author": "or kandabi",
+  "description": "My Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+}
+}
